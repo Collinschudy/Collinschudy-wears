@@ -27,6 +27,7 @@
 }
 .menu-item:hover .content{
     cursor: pointer;
+    opacity: 0.9;
 }
 
 .content{

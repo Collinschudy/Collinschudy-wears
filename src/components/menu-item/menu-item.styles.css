@@ -25,9 +25,13 @@
 .menu-item:hover .background-image{
     transform: scale(1.1);
 }
-.menu-item:hover .content{
+/* .menu-item:hover .content{
     cursor: pointer;
     opacity: 0.9;
+} */
+.content:hover {
+    opacity: 0.9;
+    cursor: pointer;
 }
 
 .content{

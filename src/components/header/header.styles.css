@@ -16,7 +16,7 @@
 .options{
     /* border: 1px solid green; */
     width: 100%;
-    max-width: 20em;
+    max-width: 25em;
     display: flex;
     justify-content: flex-end;
     
